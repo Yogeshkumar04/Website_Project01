@@ -87,5 +87,34 @@
   margin-top: 40px;
 }
 
+/* ....................Our Team......... */
+.rounded-circle {
+  border-radius: 10%!important;
+  border-top-left-radius: 10% !important;
+  border-top-right-radius: 10% !important;
+  border-bottom-right-radius: 10% !important;
+  border-bottom-left-radius: 10% !important;
+}
 
+.ourteam{
+  height: 800px;
+  padding: 100px 0px 60px;
+  width: 100%;
+}
 
+.ourteam h1{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.teamsetting{
+  margin-top: 70px;
+}
+/* ..........Footer................. */
+.footer{
+  height:50px;
+}
+
+.footer h6{
+  line-height: 50px;
+}
