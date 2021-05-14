@@ -61,13 +61,31 @@
   margin-top: 20px;
   font-weight: bold;
   font-size: 30px;
+  
 }
 
 .rowsetting p{
   padding:10px;
   color:#0a043c !important;
+  
 }
 
+/* ..................Portfolio............... */
+
+.portfolio{
+  height: 1100px;
+  width: 100%;
+  padding: 100px 0px 50px;
+}
+
+.portfolio h1{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.card{
+  margin-top: 40px;
+}
 
 
 
