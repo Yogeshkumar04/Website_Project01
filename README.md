@@ -8,4 +8,6 @@ In this website we have added :
  * Uses Grid Layout 
  * Font Awesome icons
  * Cards 
- 
+ * figure 
+ * footer
+
