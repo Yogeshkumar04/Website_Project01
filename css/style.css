@@ -26,7 +26,7 @@
 
 .ourservice{
   padding: 100px 0px 60px;
-  height: 700px;
+  /* height: 1500px; */
 }
 
 .ourservice h1{
@@ -73,7 +73,7 @@
 /* ..................Portfolio............... */
 
 .portfolio{
-  height: 1100px;
+  /* height: 1100px; */
   width: 100%;
   padding: 100px 0px 50px;
 }
@@ -97,7 +97,7 @@
 }
 
 .ourteam{
-  height: 800px;
+  /* height: 800px; */
   padding: 100px 0px 60px;
   width: 100%;
 }
@@ -117,4 +117,55 @@
 
 .footer h6{
   line-height: 50px;
+}
+
+/* ............For Creating our Website Responsive we have to use media query */
+
+@media(min-width: 992px){
+
+
+
+}
+
+@media(min-width:768) and (max-width:991){
+
+
+}
+
+@media(min-width:575px) and (max-width:767px){
+
+
+}
+
+@media(min-width:480px) and (max-width:574px){
+
+
+}
+
+@media(max-width:479px){
+
+  .hearderset h2{
+    font-size: 22px;
+    
+  }
+  
+  .hearderset h1{
+    font-size: 40px;
+    font-weight: bold;
+    
+  }
+
+  .ourservice{
+   
+    height: 1600px;
+  }
+
+  .portfolio {
+    height:2600px;
+  }
+
+  .ourteam{
+    height: 1400px;
+  }
+
 }
